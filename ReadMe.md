@@ -13,5 +13,6 @@ Analysis of average price in relation to bedroom listings( number of bedrooms), 
 - Tableau
 
 ## How to visualize the project
+   You need to have Tableau public desktop installed already
 1. Clone repository
-2.
+2. Click on the link https://public.tableau.com/app/profile/kate.akande/viz/AirBnBFullProjectKay/Dashboard1?publish=yes
