@@ -1,7 +1,7 @@
 # AirBnB Housing Analysis Project
 Analysis of average price in relation to bedroom listings( number of bedrooms), location and time of the year
 
-![Screenshot showing graphical repesentation of the analysis done.](/screenshot_of_analysish.png)
+![Screenshot showing graphical repesentation of the analysis done.](/screenshot_of_analysis.png)
 
 ## Steps taken
 
